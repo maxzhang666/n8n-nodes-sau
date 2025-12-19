@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none">
+  <rect width="24" height="24" rx="5" fill="#000000"/>
+  <path d="M12 6L14.5 11H9.5L12 6Z" fill="#00F5FF"/>
+  <circle cx="12" cy="15" r="3" fill="#00F5FF"/>
+  <text x="12" y="20" font-size="6" fill="#FFFFFF" text-anchor="middle" font-family="Arial, sans-serif">抖音</text>
+</svg>

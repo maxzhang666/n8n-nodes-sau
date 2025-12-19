@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- 背景正方形 -->
+  <rect x="2" y="2" width="60" height="60" rx="8" fill="#FF2442"/>
+  
+  <!-- 小红书文字 -->
+  <text x="32" y="40" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white" text-anchor="middle">
+    小红书
+  </text>
+</svg>

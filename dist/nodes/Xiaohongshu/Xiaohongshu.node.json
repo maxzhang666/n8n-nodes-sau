@@ -1,0 +1,18 @@
+{
+    "node": "n8n-nodes-sau.xiaohongshu",
+    "nodeVersion": "1.0",
+    "codexVersion": "1.0",
+    "categories": ["Marketing", "Social Media"],
+    "resources": {
+        "credentialDocumentation": [
+            {
+                "url": "https://github.com/maxzhang666/n8n-nodes-sau#credentials"
+            }
+        ],
+        "primaryDocumentation": [
+            {
+                "url": "https://github.com/maxzhang666/n8n-nodes-sau"
+            }
+        ]
+    }
+}
